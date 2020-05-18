@@ -3,8 +3,8 @@
 ### Bahan
 > convertapi==1.1.1
 Cara Cek Versi nya :
-> ***Windows : pip freeze | findstr convertapi
-> ***Linux : pip freeze | grep convertapi
+ * Windows : pip freeze | findstr convertapi
+ * Linux : pip freeze | grep convertapi
 
 ### Instruksi Penggunaan
 Caranya mudah. Cukup install perl dan pasang library markdown.
